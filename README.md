@@ -1,19 +1,19 @@
-# Project 2 - *SimpleTweet*
+# Project 2 - *SimpleTweet2*
 
-**Name of your app** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**SimpleTweet2** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **3** hours spent in total
+Time spent: **X** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [x ] User can **compose and post a new tweet**
-  - [x ] User can click a “Compose” icon in the Action Bar on the top right
+- [ x] User can **compose and post a new tweet**
+  - [ x] User can click a “Compose” icon in the Action Bar on the top right
   - [x ] User can then enter a new tweet and post this to twitter
-  - [x ] User is taken back to home timeline with **new tweet visible** in timeline
+  - [x] User is taken back to home timeline with **new tweet visible** in timeline
   - [x ] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
-  - [x ] User can **see a counter with total number of characters left for tweet** on compose tweet page
+  - [ x] User can **see a counter with total number of characters left for tweet** on compose tweet page
 
 The following **optional** features are implemented:
 
@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![unit3_gif](https://user-images.githubusercontent.com/80940481/155646344-1484d1e6-a42a-4e1c-b675-c92a531af86f.gif)
+![unit4_gif](https://user-images.githubusercontent.com/80940481/155906927-a05c07c6-9936-4c80-866b-b986f2a473c2.gif)
 
 
 ## Notes
@@ -48,7 +48,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
